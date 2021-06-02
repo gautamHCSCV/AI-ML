@@ -1,1 +1,2 @@
 # AI-ML
+Multi ouput functional API contains a model that operates on 2 different outputs for the same input. The individual outputs were also trained. Made custom layers, custom huber loss function and custom model to train the second output and the results improved. Next, made a model and implemented the compile and fit function from scratch. Applied gradients, changed weights, saw results with different optimizers with different learninig rates. However this technique does not improved the model performance.
