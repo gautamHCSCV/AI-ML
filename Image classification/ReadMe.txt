@@ -1,5 +1,5 @@
 Process of Execution:
-1. Open the Minor_Project.ipynb file in the colab notebook.
+1. Open the Mask_or_without_mask.ipynb file in the colab notebook.
 2. Upload the dataset file attached in the folder in your google drive.
 3. Dataset folder should have 2 files one containg images with mask and one containing images without mask.
 4. Mount your drive to colab notebook.
